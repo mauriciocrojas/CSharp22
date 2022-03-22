@@ -1,0 +1,16 @@
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\Presentacion01\bin\Debug\net5.0\Presentacion01.exe
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\Presentacion01\bin\Debug\net5.0\Presentacion01.deps.json
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\Presentacion01\bin\Debug\net5.0\Presentacion01.runtimeconfig.json
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\Presentacion01\bin\Debug\net5.0\Presentacion01.runtimeconfig.dev.json
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\Presentacion01\bin\Debug\net5.0\Presentacion01.dll
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\Presentacion01\bin\Debug\net5.0\Presentacion01.pdb
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\Presentacion01\obj\Debug\net5.0\Presentacion01.csproj.AssemblyReference.cache
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\Presentacion01\obj\Debug\net5.0\Presentacion01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\Presentacion01\obj\Debug\net5.0\Presentacion01.AssemblyInfoInputs.cache
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\Presentacion01\obj\Debug\net5.0\Presentacion01.AssemblyInfo.cs
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\Presentacion01\obj\Debug\net5.0\Presentacion01.csproj.CoreCompileInputs.cache
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\Presentacion01\obj\Debug\net5.0\Presentacion01.dll
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\Presentacion01\obj\Debug\net5.0\refint\Presentacion01.dll
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\Presentacion01\obj\Debug\net5.0\Presentacion01.pdb
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\Presentacion01\obj\Debug\net5.0\Presentacion01.genruntimeconfig.cache
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\Presentacion01\obj\Debug\net5.0\ref\Presentacion01.dll

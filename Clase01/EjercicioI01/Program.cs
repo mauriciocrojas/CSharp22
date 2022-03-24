@@ -21,16 +21,19 @@ namespace EjercicioI01
             for (int i = 0; i < 5; i++)
             {
                 Console.WriteLine("Ingrese un número: ");
-                int.TryParse(Console.ReadLine(), out numeroIngresado);
-                acum += numeroIngresado;
 
-                if (numeroIngresado < min)
+                if (int.TryParse(Console.ReadLine(), out numeroIngresado))
                 {
-                    min = numeroIngresado;
-                }
-                if (numeroIngresado > max)
-                {
-                    max = numeroIngresado;
+                    acum += numeroIngresado;
+
+                    if (numeroIngresado < min)
+                    {
+                        min = numeroIngresado;
+                    }
+                    if (numeroIngresado > max)
+                    {
+                        max = numeroIngresado;
+                    }
                 }
             }
             prom = acum / 5;

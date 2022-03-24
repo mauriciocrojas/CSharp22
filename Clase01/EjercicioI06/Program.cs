@@ -17,7 +17,27 @@ namespace EjercicioI06
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int num1;
+            int num2;
+
+            Console.WriteLine("Ingrese año minimo: ");
+            int.TryParse(Console.ReadLine(), out num1);
+
+            Console.WriteLine("Ingrese año maximo: ");
+            int.TryParse(Console.ReadLine(), out num2);
+
+            Console.WriteLine($"Rango entre: {num1} y {num2}");
+            Console.WriteLine($"Los años bisietos entre el rango seleccionado son: ");
+
+            for(int i = num1; i < num2; i++)
+            {
+                if ((i % 4 == 0 && i % 100 != 0) || (i % 4 == 0 && (i % 100 == 0 && i % 400 == 0)))
+                {
+                    Console.WriteLine(i);
+                }
+            }
+
+
         }
     }
 }

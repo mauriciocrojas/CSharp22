@@ -25,7 +25,20 @@ namespace EjercicioI03
 
             while (!(int.TryParse(Console.ReadLine(), out numIngresado)))
             {
-                Console.WriteLine("Error, reingrese el número: ");
+                Console.WriteLine("Error, reingrese el número o digite salir: ");
+                string palabra = Console.ReadLine();
+                if (int.TryParse(palabra, out numIngresado))
+                {
+
+                    continue;
+
+                }
+                else if (palabra == "salir")
+                {
+                    Console.WriteLine("Usted a digitado salir, saludos ");
+                    Environment.Exit(0);
+                }
+
             }
 
             if (numIngresado >= 2) Console.WriteLine("Los numeros primos hasta el numero ingresado son: ");

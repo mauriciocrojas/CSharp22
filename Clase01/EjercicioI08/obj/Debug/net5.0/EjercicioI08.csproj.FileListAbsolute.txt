@@ -1,0 +1,16 @@
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\EjercicioI08\bin\Debug\net5.0\EjercicioI08.exe
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\EjercicioI08\bin\Debug\net5.0\EjercicioI08.deps.json
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\EjercicioI08\bin\Debug\net5.0\EjercicioI08.runtimeconfig.json
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\EjercicioI08\bin\Debug\net5.0\EjercicioI08.runtimeconfig.dev.json
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\EjercicioI08\bin\Debug\net5.0\EjercicioI08.dll
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\EjercicioI08\bin\Debug\net5.0\EjercicioI08.pdb
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\EjercicioI08\obj\Debug\net5.0\EjercicioI08.csproj.AssemblyReference.cache
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\EjercicioI08\obj\Debug\net5.0\EjercicioI08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\EjercicioI08\obj\Debug\net5.0\EjercicioI08.AssemblyInfoInputs.cache
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\EjercicioI08\obj\Debug\net5.0\EjercicioI08.AssemblyInfo.cs
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\EjercicioI08\obj\Debug\net5.0\EjercicioI08.csproj.CoreCompileInputs.cache
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\EjercicioI08\obj\Debug\net5.0\EjercicioI08.dll
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\EjercicioI08\obj\Debug\net5.0\refint\EjercicioI08.dll
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\EjercicioI08\obj\Debug\net5.0\EjercicioI08.pdb
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\EjercicioI08\obj\Debug\net5.0\EjercicioI08.genruntimeconfig.cache
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase01\EjercicioI08\obj\Debug\net5.0\ref\EjercicioI08.dll

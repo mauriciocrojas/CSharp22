@@ -25,7 +25,21 @@ namespace EjercicioI08
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            int numIngresado;
+            string simbolo = "*";
+
+            Console.WriteLine("Ingrese un numero: ");
+            int.TryParse(Console.ReadLine(), out numIngresado);
+
+            for (int i = 0; i <= numIngresado; i++)
+            {
+                for (int j = 0; j < i; j++)
+                {
+                    Console.Write(simbolo);
+                }
+                Console.Write("\n");
+            }
         }
     }
 }

@@ -1,4 +1,6 @@
-﻿//Realizar una clase llamada Validador que posea un método 
+﻿//Validador de rangos
+
+//Realizar una clase llamada Validador que posea un método 
 //estático llamado Validar con la siguiente firma:
 
 //bool Validar(int valor, int min, int max)

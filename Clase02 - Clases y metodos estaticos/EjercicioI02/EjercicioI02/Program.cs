@@ -1,4 +1,6 @@
-﻿//Realizar un programa que sume números enteros hasta que el usuario
+﻿//¿Desea continuar?
+
+//Realizar un programa que sume números enteros hasta que el usuario
 //lo determine por medio de un mensaje "¿Desea continuar? (S/N)".
 
 //Crear la clase Validador y el método estático ValidarRespuesta,

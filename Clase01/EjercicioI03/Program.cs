@@ -20,44 +20,51 @@ namespace EjercicioI03
         {
             int numIngresado;
             int contPrimos = 0;
-
-            Console.WriteLine("Ingrese un número: ");
-
-            while (!(int.TryParse(Console.ReadLine(), out numIngresado)))
+            string answer;
+            do
             {
-                Console.WriteLine("Error, reingrese el número o digite salir: ");
-                string palabra = Console.ReadLine();
-                if (int.TryParse(palabra, out numIngresado))
+                Console.Clear();
+                Console.WriteLine("Ingrese un número: ");
+
+                while (!(int.TryParse(Console.ReadLine(), out numIngresado)))
                 {
-
-                    continue;
-
-                }
-                else if (palabra == "salir")
-                {
-                    Console.WriteLine("Usted a digitado salir, saludos ");
-                    Environment.Exit(0);
-                }
-
-            }
-
-            if (numIngresado >= 2) Console.WriteLine("Los numeros primos hasta el numero ingresado son: ");
-
-            for (int i = 1; i <= numIngresado; i++)
-            {
-                for (int j = 1; j <= i; j++)
-                {
-                    if (i % j == 0)
+                    Console.WriteLine("Error, reingrese el número o digite salir: ");
+                    string palabra = Console.ReadLine();
+                    if (int.TryParse(palabra, out numIngresado))
                     {
-                        contPrimos++;
+                        break;
+
                     }
+                    else if (palabra == "salir")
+                    {
+                        Console.WriteLine("Usted a digitado salir, saludos ");
+                        Environment.Exit(0);
+                    }
+
                 }
-                if (contPrimos == 2)
+
+                if (numIngresado >= 2) Console.WriteLine("Los numeros primos hasta el numero ingresado son: ");
+
+                for (int i = 1; i <= numIngresado; i++)
                 {
-                    Console.WriteLine("{0} ", i);
+                    for (int j = 1; j <= i; j++)
+                    {
+                        if (i % j == 0)
+                        {
+                            contPrimos++;
+                        }
+                    }
+                    if (contPrimos == 2)
+                    {
+                        Console.WriteLine("{0} ", i);
+                    }
+                    contPrimos = 0;
                 }
-                contPrimos = 0;
-            }
+
+                Console.WriteLine("\n¿Desea hacer otra consulta? si/no");
+                answer = Console.ReadLine();
+
+            } while (answer == "si");
         }
     }
 }

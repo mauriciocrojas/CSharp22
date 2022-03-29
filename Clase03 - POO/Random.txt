@@ -1,0 +1,12 @@
+Random random = new Random();
+		// Recuerda que el segundo argumento es el límite
+		// superior exclusivo
+		// Entre 1 y 10
+		int numero = random.Next(1, 11);
+		Console.WriteLine(numero);
+		// Entre 1 y 2
+		numero = random.Next(1, 3);
+		Console.WriteLine(numero);
+		// Entre 50 y 200
+		numero = random.Next(50, 201);
+		Console.WriteLine(numero);

@@ -1,0 +1,12 @@
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase04 - Obj vs est, cl est, const est, dtim\SistemasUTN\SistemasUTN\Logica\bin\Debug\net5.0\Logica.deps.json
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase04 - Obj vs est, cl est, const est, dtim\SistemasUTN\SistemasUTN\Logica\bin\Debug\net5.0\Logica.dll
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase04 - Obj vs est, cl est, const est, dtim\SistemasUTN\SistemasUTN\Logica\bin\Debug\net5.0\Logica.pdb
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase04 - Obj vs est, cl est, const est, dtim\SistemasUTN\SistemasUTN\Logica\obj\Debug\net5.0\Logica.csproj.AssemblyReference.cache
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase04 - Obj vs est, cl est, const est, dtim\SistemasUTN\SistemasUTN\Logica\obj\Debug\net5.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase04 - Obj vs est, cl est, const est, dtim\SistemasUTN\SistemasUTN\Logica\obj\Debug\net5.0\Logica.AssemblyInfoInputs.cache
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase04 - Obj vs est, cl est, const est, dtim\SistemasUTN\SistemasUTN\Logica\obj\Debug\net5.0\Logica.AssemblyInfo.cs
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase04 - Obj vs est, cl est, const est, dtim\SistemasUTN\SistemasUTN\Logica\obj\Debug\net5.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase04 - Obj vs est, cl est, const est, dtim\SistemasUTN\SistemasUTN\Logica\obj\Debug\net5.0\Logica.dll
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase04 - Obj vs est, cl est, const est, dtim\SistemasUTN\SistemasUTN\Logica\obj\Debug\net5.0\refint\Logica.dll
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase04 - Obj vs est, cl est, const est, dtim\SistemasUTN\SistemasUTN\Logica\obj\Debug\net5.0\Logica.pdb
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase04 - Obj vs est, cl est, const est, dtim\SistemasUTN\SistemasUTN\Logica\obj\Debug\net5.0\ref\Logica.dll

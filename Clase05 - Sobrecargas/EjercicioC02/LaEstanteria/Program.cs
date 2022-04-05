@@ -44,6 +44,7 @@
 
 
 using System;
+using Entidades;
 
 namespace EjercicioC02
 {

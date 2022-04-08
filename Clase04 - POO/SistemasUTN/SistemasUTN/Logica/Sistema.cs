@@ -12,7 +12,7 @@ namespace Logica
         //Por eso no es público, y es estático
         static Sistema()
         {
-            usuariosRegistrados = new Usuario[8];
+            usuariosRegistrados = new Usuario[5];
             CargarUsuariosHardcodeados();
         }
 
@@ -44,15 +44,14 @@ namespace Logica
 
         private static int VerificarPosicionLibre()
         {
-            for (int i = 0; i <= usuariosRegistrados.Length; i++)
+            for (int i = 0; i < usuariosRegistrados.Length; i++)
             {
                 if (usuariosRegistrados[i] is null)
                 {
                     return i;
                 }
+
             }
-
-
             return -1;
         }
 

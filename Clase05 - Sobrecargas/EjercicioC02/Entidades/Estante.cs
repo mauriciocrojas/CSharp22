@@ -75,15 +75,17 @@ namespace Entidades
 
         public static bool operator +(Estante e, Producto p)
         {
-
-            for (int i = 0; i < e.productos.Length; i++)
+            if (e != p)
             {
-
-                if (e.productos[i] is null && e.productos[i] != p)
+                for (int i = 0; i < e.productos.Length; i++)
                 {
+
+                    if (e.productos[i] is null)
+                    {
 
                         e.productos[i] = p;
                         return true;
+                    }
                 }
             }
 

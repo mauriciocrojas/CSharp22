@@ -30,8 +30,10 @@ namespace Entidades
 
             for (int i = 0; i < e.productos.Length; i++)
             {
-
-                sb.AppendLine($"Producto: {e.productos[i]}");
+                if (e.productos[i] is not null)
+                {
+                    sb.AppendLine($"Producto:\n{Producto.MostrarProducto(e.productos[i])}");
+                }
             }
             sb.AppendLine($"Ubicacion estante: {e.ubicacionEstante}");
 
@@ -73,19 +75,18 @@ namespace Entidades
 
         public static bool operator +(Estante e, Producto p)
         {
-            if (e != p)
+
+            for (int i = 0; i < e.productos.Length; i++)
             {
-                for (int i = 0; i < e.productos.Length; i++)
+
+                if (e.productos[i] is null && e.productos[i] != p)
                 {
 
-                    if (e.productos[i] is null)
-                    {
                         e.productos[i] = p;
                         return true;
-                    }
                 }
-
             }
+
             return false;
 
         }

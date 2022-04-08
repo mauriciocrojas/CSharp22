@@ -1,5 +1,4 @@
-﻿using System;
-using System.Text;
+﻿using System.Text;
 
 namespace Entidades
 {
@@ -9,7 +8,7 @@ namespace Entidades
         private string marca;
         private float precio;
 
-        public Producto(string codigoDeBarra, string marca, float precio)
+        public Producto(string marca, string codigoDeBarra, float precio)
         {
             this.codigoDeBarra = codigoDeBarra;
             this.marca = marca;
@@ -28,7 +27,7 @@ namespace Entidades
         }
 
 
-        public static string MostrarProducto (Producto p)
+        public static string MostrarProducto(Producto p)
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine($"Marca: {p.marca}, Precio: {p.precio}, Código de barras: {p.codigoDeBarra}");
@@ -37,15 +36,22 @@ namespace Entidades
         }
 
 
-        public static explicit operator string (Producto p)
+        public static explicit operator string(Producto p)
         {
-
-            return p.codigoDeBarra;
+            if (p is not null)
+            {
+                return p.codigoDeBarra;
+            }
+            return "Código de barras inaccesible";
         }
 
-        public static bool operator == (Producto p1, Producto p2)
+        public static bool operator ==(Producto p1, Producto p2)
         {
-            return (p1.codigoDeBarra == p2.codigoDeBarra) && (p1.marca == p2.marca);
+            if (p1 is not null && p2 is not null)
+            {
+                return (p1.marca == p2.marca) && (p1.codigoDeBarra == p2.codigoDeBarra);
+            }
+            return false;
         }
 
         public static bool operator !=(Producto p1, Producto p2)
@@ -57,7 +63,11 @@ namespace Entidades
 
         public static bool operator ==(Producto p1, string marca)
         {
-            return (p1.marca == marca);
+            if (p1 is not null && string.IsNullOrEmpty(marca))
+            {
+                return (p1.marca == marca);
+            }
+            return false;
         }
 
         public static bool operator !=(Producto p1, string marca)

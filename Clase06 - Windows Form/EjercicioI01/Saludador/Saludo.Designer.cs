@@ -55,7 +55,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(390, 171);
+            this.ClientSize = new System.Drawing.Size(466, 171);
             this.Controls.Add(this.lblSoy);
             this.Controls.Add(this.lblSaludo);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;

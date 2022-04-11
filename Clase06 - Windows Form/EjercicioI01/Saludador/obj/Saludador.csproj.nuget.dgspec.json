@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maurojas\\Documents\\Alumni\\Proyectos\\Clase06 - Windows Form\\EjercicioI01\\Saludador\\Saludador.csproj": {}
+    "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\Clase06 - Windows Form\\EjercicioI01\\Saludador\\Saludador.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maurojas\\Documents\\Alumni\\Proyectos\\Clase06 - Windows Form\\EjercicioI01\\Saludador\\Saludador.csproj": {
+    "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\Clase06 - Windows Form\\EjercicioI01\\Saludador\\Saludador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maurojas\\Documents\\Alumni\\Proyectos\\Clase06 - Windows Form\\EjercicioI01\\Saludador\\Saludador.csproj",
+        "projectUniqueName": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\Clase06 - Windows Form\\EjercicioI01\\Saludador\\Saludador.csproj",
         "projectName": "Saludador",
-        "projectPath": "C:\\Users\\maurojas\\Documents\\Alumni\\Proyectos\\Clase06 - Windows Form\\EjercicioI01\\Saludador\\Saludador.csproj",
+        "projectPath": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\Clase06 - Windows Form\\EjercicioI01\\Saludador\\Saludador.csproj",
         "packagesPath": "C:\\Users\\maurojas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maurojas\\Documents\\Alumni\\Proyectos\\Clase06 - Windows Form\\EjercicioI01\\Saludador\\obj\\",
+        "outputPath": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\Clase06 - Windows Form\\EjercicioI01\\Saludador\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

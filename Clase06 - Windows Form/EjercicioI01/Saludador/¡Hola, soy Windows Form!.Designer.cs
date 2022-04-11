@@ -33,6 +33,8 @@
             this.lblNombre = new System.Windows.Forms.Label();
             this.lblApellido = new System.Windows.Forms.Label();
             this.btnSaludar = new System.Windows.Forms.Button();
+            this.cmbMatFav = new System.Windows.Forms.ComboBox();
+            this.lblMatFav = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // txtNombre
@@ -79,11 +81,32 @@
             this.btnSaludar.UseVisualStyleBackColor = true;
             this.btnSaludar.Click += new System.EventHandler(this.btnSaludar_Click);
             // 
+            // cmbMatFav
+            // 
+            this.cmbMatFav.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbMatFav.FormattingEnabled = true;
+            this.cmbMatFav.Location = new System.Drawing.Point(12, 126);
+            this.cmbMatFav.Name = "cmbMatFav";
+            this.cmbMatFav.Size = new System.Drawing.Size(152, 23);
+            this.cmbMatFav.TabIndex = 5;
+            // 
+            // lblMatFav
+            // 
+            this.lblMatFav.AutoSize = true;
+            this.lblMatFav.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.lblMatFav.Location = new System.Drawing.Point(21, 102);
+            this.lblMatFav.Name = "lblMatFav";
+            this.lblMatFav.Size = new System.Drawing.Size(135, 21);
+            this.lblMatFav.TabIndex = 6;
+            this.lblMatFav.Text = "Materia Favorita";
+            // 
             // Index
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(370, 161);
+            this.Controls.Add(this.lblMatFav);
+            this.Controls.Add(this.cmbMatFav);
             this.Controls.Add(this.btnSaludar);
             this.Controls.Add(this.lblApellido);
             this.Controls.Add(this.lblNombre);
@@ -108,5 +131,7 @@
         private System.Windows.Forms.Label lblNombre;
         private System.Windows.Forms.Label lblApellido;
         private System.Windows.Forms.Button btnSaludar;
+        private System.Windows.Forms.ComboBox cmbMatFav;
+        private System.Windows.Forms.Label lblMatFav;
     }
 }

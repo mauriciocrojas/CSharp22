@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maurojas\\Documents\\Alumni\\Proyectos\\Clase07 - Colecciones\\EjercicioC01\\Entitades\\Entitades.csproj",
+      "projectUniqueName": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\Clase07 - Colecciones\\EjercicioC01\\Entitades\\Entitades.csproj",
       "projectName": "Entitades",
-      "projectPath": "C:\\Users\\maurojas\\Documents\\Alumni\\Proyectos\\Clase07 - Colecciones\\EjercicioC01\\Entitades\\Entitades.csproj",
+      "projectPath": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\Clase07 - Colecciones\\EjercicioC01\\Entitades\\Entitades.csproj",
       "packagesPath": "C:\\Users\\maurojas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maurojas\\Documents\\Alumni\\Proyectos\\Clase07 - Colecciones\\EjercicioC01\\Entitades\\obj\\",
+      "outputPath": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\Clase07 - Colecciones\\EjercicioC01\\Entitades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -39,7 +39,7 @@ namespace Entitades
 
         public static bool operator +(Equipo e, Jugador j)
         {
-            if (e != null && j != null)
+            if (e is not null && j is not null)
             {
                 if (e.jugadores.Count < e.cantidadDeJugadores)
                 {
@@ -60,7 +60,7 @@ namespace Entitades
 
         public static bool operator -(Equipo e, Jugador j)
         {
-            if (e != null && j != null)
+            if (e is not null && j is not null)
             {
                 e.jugadores.Remove(j);
                 return true;

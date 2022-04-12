@@ -1,0 +1,12 @@
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase07 - Colecciones\EjercicioC01\Entitades\bin\Debug\net5.0\Entitades.deps.json
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase07 - Colecciones\EjercicioC01\Entitades\bin\Debug\net5.0\Entitades.dll
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase07 - Colecciones\EjercicioC01\Entitades\bin\Debug\net5.0\Entitades.pdb
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase07 - Colecciones\EjercicioC01\Entitades\obj\Debug\net5.0\Entitades.csproj.AssemblyReference.cache
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase07 - Colecciones\EjercicioC01\Entitades\obj\Debug\net5.0\Entitades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase07 - Colecciones\EjercicioC01\Entitades\obj\Debug\net5.0\Entitades.AssemblyInfoInputs.cache
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase07 - Colecciones\EjercicioC01\Entitades\obj\Debug\net5.0\Entitades.AssemblyInfo.cs
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase07 - Colecciones\EjercicioC01\Entitades\obj\Debug\net5.0\Entitades.csproj.CoreCompileInputs.cache
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase07 - Colecciones\EjercicioC01\Entitades\obj\Debug\net5.0\Entitades.dll
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase07 - Colecciones\EjercicioC01\Entitades\obj\Debug\net5.0\refint\Entitades.dll
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase07 - Colecciones\EjercicioC01\Entitades\obj\Debug\net5.0\Entitades.pdb
+C:\Users\maurojas\Documents\Alumni\Proyectos\Clase07 - Colecciones\EjercicioC01\Entitades\obj\Debug\net5.0\ref\Entitades.dll

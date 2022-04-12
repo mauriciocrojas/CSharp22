@@ -36,6 +36,7 @@ namespace TestForm
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
+
             contadorPalabras(this.rchPalabras.Text);
         }
 
@@ -55,31 +56,33 @@ namespace TestForm
             return sb.ToString();
         }
 
-        public bool ExisteEnDiccionario(string palabra)
-        {
-            foreach (var item in diccionario)
-            {
-                if (item.Key == palabra)
-                {
-                    return true;
-                }
-            }
-            return false;
-        }
+        //public bool ExisteEnDiccionario(string palabra)
+        //{
+        //    foreach (var item in diccionario)
+        //    {
+        //        if (item.Key == palabra)
+        //        {
+        //            return true;
+        //        }
+        //    }
+        //    return false;
+        //}
 
-        public void contadorPalabras(string palabra)
+        public void contadorPalabras(string texto)
         {
-            listaPalabras.Add(palabra);
-            foreach (var texto in listaPalabras)
+            char[] separacion = new char[] { ' ', ',', '.', ':', '\t' };
+            listaPalabras.AddRange(texto.Split(separacion, StringSplitOptions.RemoveEmptyEntries));
+
+            foreach (var palabra in listaPalabras)
             {
                 if (!diccionario.ContainsKey(palabra))
                 {
-                    diccionario.Add(texto, 1);
+                    diccionario.Add(palabra, 1);
 
                 }
                 else
                 {
-                    diccionario[texto] += 1;
+                    diccionario[palabra]++;
 
                 }
             }

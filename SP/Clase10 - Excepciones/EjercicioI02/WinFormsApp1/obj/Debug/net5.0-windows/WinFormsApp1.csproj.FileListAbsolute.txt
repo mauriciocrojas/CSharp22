@@ -1,0 +1,7 @@
+C:\Users\maurojas\Documents\Alumni\Proyectos\SP\Clase10 - Excepciones\EjercicioI02\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\maurojas\Documents\Alumni\Proyectos\SP\Clase10 - Excepciones\EjercicioI02\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\maurojas\Documents\Alumni\Proyectos\SP\Clase10 - Excepciones\EjercicioI02\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\maurojas\Documents\Alumni\Proyectos\SP\Clase10 - Excepciones\EjercicioI02\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maurojas\Documents\Alumni\Proyectos\SP\Clase10 - Excepciones\EjercicioI02\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\maurojas\Documents\Alumni\Proyectos\SP\Clase10 - Excepciones\EjercicioI02\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\maurojas\Documents\Alumni\Proyectos\SP\Clase10 - Excepciones\EjercicioI02\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache

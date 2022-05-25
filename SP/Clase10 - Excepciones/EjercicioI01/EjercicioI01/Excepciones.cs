@@ -11,6 +11,7 @@
 //relanzarla hacia el otro constructor de instancia.
 //En este segundo constructor se deberá instanciar otro objeto del tipo MiClase,
 //capturando su excepción. Crear una excepción propia llamada UnaException 
+
 //(utilizar la propiedad InnerException para almacenar la excepción original) y volver a lanzarla.
 //Generar la clase OtraClase con un método de instancia, donde se instancie un objeto MiClase 
 //y se capture la excepción anterior. Este método generará una excepción propia llamada MiException y la lanzará.
@@ -30,44 +31,61 @@ namespace EjercicioI01
         }
 
         public UnaExcepcion(string mensaje, Exception ex)
-            : base (mensaje, ex)
-        {
-
-        }
-    }
-
-    public class MiExcepcion : Exception
-    {
-        public MiExcepcion(string mensaje) : this(mensaje, null)
-        {
-
-        }
-
-        public MiExcepcion(string mensaje, Exception ex)
             : base(mensaje, ex)
         {
 
         }
     }
 
+    //Sin uso
+    public class OtraExcepcion : Exception
+    {
+        public OtraExcepcion(string mensaje) : this(mensaje, null)
+        {
+
+        }
+
+        public OtraExcepcion(string mensaje, Exception ex)
+            : base(mensaje, ex)
+        {
+
+        }
+    }
+    //
+
     public class MiClase
     {
-        public static void Lanzar()
+        public static int Lanzar()
         {
             int divisor = 5;
             int dividendo = 0;
+            if (dividendo == 0)
+            {
+                throw new UnaExcepcion("Error al intentar dividir por 0");
+            }
             int resultado = divisor / dividendo;
+            return resultado;
         }
+
+        public int numero;
 
         public MiClase()
         {
+            try
+            {
+                this.numero = Lanzar();
 
+            }
+            catch (Exception ex)
+            {
+                //Console.WriteLine(ex.Message);
+                throw new Exception("Excepcion en el contructor MiClase", ex);
+            }
         }
-        public MiClase(Exception exception) : this()
+        public MiClase(int numero) : this()
         {
 
         }
-
-
     }
+
 }

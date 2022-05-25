@@ -22,11 +22,22 @@ using System;
 
 namespace EjercicioI01
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            MiClase.Lanzar();
+            try
+            {
+                MiClase miClase = new MiClase(5);
+                //Console.WriteLine(MiClase.Lanzar());
+
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+                Console.WriteLine(ex.InnerException.Message);
+                //throw new Exception(ex.Message, ex);
+            }
         }
     }
 }

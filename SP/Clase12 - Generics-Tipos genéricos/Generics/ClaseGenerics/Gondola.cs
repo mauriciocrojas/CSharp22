@@ -21,7 +21,7 @@ namespace ClaseGenerics
             this.sector = sector;
         }
 
-        public int ListaElentos
+        public int CantidadDeElementos
         {
             get { return listaElementos.Count; }
         }
@@ -34,6 +34,11 @@ namespace ClaseGenerics
         public bool GuardarObjeto(T objetoAGuardar)
         {
             return true;
+        }
+
+        public string MostrarDatos()
+        {
+            return listaElementos[0].ToString();
         }
     }
 }

@@ -1,20 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace ClaseGenerics
 {
-    public class Inventario <T,U,V> 
+    public class Inventario<U>
+        where U : MedioDeTransporte
     {
-        List<T> lista;
-        U objetoPrincipal;
-        V[] arrayDeAlgo;
+        List<U> listaMedioTransporte;
 
-        public string Mostrar()
+        public void SumarCantidadDeCombustible()
         {
-            return objetoPrincipal.ToString();
+            foreach (U item in listaMedioTransporte)
+            {
+                item.nombre = "";
+                item.MostrarNumeroChasis();
+            }
         }
     }
 }

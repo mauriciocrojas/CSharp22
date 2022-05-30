@@ -16,6 +16,7 @@ namespace Entidades
             get => ConsoleColor.Gray;
             set => throw new NotImplementedException();
         }
+
         float IAcciones.UnidadesDeEscritura
         {
             get => this.tamanioMina;

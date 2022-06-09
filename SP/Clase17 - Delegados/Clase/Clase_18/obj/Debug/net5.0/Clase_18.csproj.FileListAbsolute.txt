@@ -1,0 +1,16 @@
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\Clase17 - Delegados\Clase\Clase_18\bin\Debug\net5.0\Clase_18.exe
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\Clase17 - Delegados\Clase\Clase_18\bin\Debug\net5.0\Clase_18.deps.json
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\Clase17 - Delegados\Clase\Clase_18\bin\Debug\net5.0\Clase_18.runtimeconfig.json
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\Clase17 - Delegados\Clase\Clase_18\bin\Debug\net5.0\Clase_18.runtimeconfig.dev.json
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\Clase17 - Delegados\Clase\Clase_18\bin\Debug\net5.0\Clase_18.dll
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\Clase17 - Delegados\Clase\Clase_18\bin\Debug\net5.0\Clase_18.pdb
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\Clase17 - Delegados\Clase\Clase_18\obj\Debug\net5.0\Clase_18.csproj.AssemblyReference.cache
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\Clase17 - Delegados\Clase\Clase_18\obj\Debug\net5.0\Clase_18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\Clase17 - Delegados\Clase\Clase_18\obj\Debug\net5.0\Clase_18.AssemblyInfoInputs.cache
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\Clase17 - Delegados\Clase\Clase_18\obj\Debug\net5.0\Clase_18.AssemblyInfo.cs
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\Clase17 - Delegados\Clase\Clase_18\obj\Debug\net5.0\Clase_18.csproj.CoreCompileInputs.cache
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\Clase17 - Delegados\Clase\Clase_18\obj\Debug\net5.0\Clase_18.dll
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\Clase17 - Delegados\Clase\Clase_18\obj\Debug\net5.0\refint\Clase_18.dll
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\Clase17 - Delegados\Clase\Clase_18\obj\Debug\net5.0\Clase_18.pdb
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\Clase17 - Delegados\Clase\Clase_18\obj\Debug\net5.0\Clase_18.genruntimeconfig.cache
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\Clase17 - Delegados\Clase\Clase_18\obj\Debug\net5.0\ref\Clase_18.dll

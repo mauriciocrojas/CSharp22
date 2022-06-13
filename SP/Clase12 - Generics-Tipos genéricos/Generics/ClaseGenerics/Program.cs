@@ -30,7 +30,7 @@ namespace ClaseGenerics
             ///
 
             Inventario<Juguete, Moto> inventario1 = new Inventario<Juguete, Moto>();
-            inventario1.ToString(); 
+            inventario1.ToString();
         }
     }
 }

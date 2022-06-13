@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maurojas\\Documents\\Alumni\\Proyectos\\SP\\Clase12 - Generics-Tipos Genéricos\\Generics\\ClaseGenerics\\ClaseGenerics.csproj": {}
+    "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\Clase12 - Generics-Tipos genéricos\\Generics\\ClaseGenerics\\ClaseGenerics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maurojas\\Documents\\Alumni\\Proyectos\\SP\\Clase12 - Generics-Tipos Genéricos\\Generics\\ClaseGenerics\\ClaseGenerics.csproj": {
+    "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\Clase12 - Generics-Tipos genéricos\\Generics\\ClaseGenerics\\ClaseGenerics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maurojas\\Documents\\Alumni\\Proyectos\\SP\\Clase12 - Generics-Tipos Genéricos\\Generics\\ClaseGenerics\\ClaseGenerics.csproj",
+        "projectUniqueName": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\Clase12 - Generics-Tipos genéricos\\Generics\\ClaseGenerics\\ClaseGenerics.csproj",
         "projectName": "ClaseGenerics",
-        "projectPath": "C:\\Users\\maurojas\\Documents\\Alumni\\Proyectos\\SP\\Clase12 - Generics-Tipos Genéricos\\Generics\\ClaseGenerics\\ClaseGenerics.csproj",
+        "projectPath": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\Clase12 - Generics-Tipos genéricos\\Generics\\ClaseGenerics\\ClaseGenerics.csproj",
         "packagesPath": "C:\\Users\\maurojas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maurojas\\Documents\\Alumni\\Proyectos\\SP\\Clase12 - Generics-Tipos Genéricos\\Generics\\ClaseGenerics\\obj\\",
+        "outputPath": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\Clase12 - Generics-Tipos genéricos\\Generics\\ClaseGenerics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

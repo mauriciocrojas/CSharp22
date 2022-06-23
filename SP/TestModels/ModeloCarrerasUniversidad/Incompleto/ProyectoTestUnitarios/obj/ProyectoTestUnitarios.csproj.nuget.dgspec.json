@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maurojas\\Downloads\\ModeloCarrerasUniversidad\\Incompleto\\ProyectoTestUnitarios\\ProyectoTestUnitarios.csproj": {}
+    "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Incompleto\\ProyectoTestUnitarios\\ProyectoTestUnitarios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maurojas\\Downloads\\ModeloCarrerasUniversidad\\Incompleto\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
+    "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Incompleto\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maurojas\\Downloads\\ModeloCarrerasUniversidad\\Incompleto\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+        "projectUniqueName": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Incompleto\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
         "projectName": "BibliotecaDeClases",
-        "projectPath": "C:\\Users\\maurojas\\Downloads\\ModeloCarrerasUniversidad\\Incompleto\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+        "projectPath": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Incompleto\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
         "packagesPath": "C:\\Users\\maurojas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maurojas\\Downloads\\ModeloCarrerasUniversidad\\Incompleto\\BibliotecaDeClases\\obj\\",
+        "outputPath": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Incompleto\\BibliotecaDeClases\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\maurojas\\Downloads\\ModeloCarrerasUniversidad\\Incompleto\\ProyectoTestUnitarios\\ProyectoTestUnitarios.csproj": {
+    "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Incompleto\\ProyectoTestUnitarios\\ProyectoTestUnitarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maurojas\\Downloads\\ModeloCarrerasUniversidad\\Incompleto\\ProyectoTestUnitarios\\ProyectoTestUnitarios.csproj",
+        "projectUniqueName": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Incompleto\\ProyectoTestUnitarios\\ProyectoTestUnitarios.csproj",
         "projectName": "ProyectoTestUnitarios",
-        "projectPath": "C:\\Users\\maurojas\\Downloads\\ModeloCarrerasUniversidad\\Incompleto\\ProyectoTestUnitarios\\ProyectoTestUnitarios.csproj",
+        "projectPath": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Incompleto\\ProyectoTestUnitarios\\ProyectoTestUnitarios.csproj",
         "packagesPath": "C:\\Users\\maurojas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maurojas\\Downloads\\ModeloCarrerasUniversidad\\Incompleto\\ProyectoTestUnitarios\\obj\\",
+        "outputPath": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Incompleto\\ProyectoTestUnitarios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -96,8 +96,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\maurojas\\Downloads\\ModeloCarrerasUniversidad\\Incompleto\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
-                "projectPath": "C:\\Users\\maurojas\\Downloads\\ModeloCarrerasUniversidad\\Incompleto\\BibliotecaDeClases\\BibliotecaDeClases.csproj"
+              "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Incompleto\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
+                "projectPath": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Incompleto\\BibliotecaDeClases\\BibliotecaDeClases.csproj"
               }
             }
           }

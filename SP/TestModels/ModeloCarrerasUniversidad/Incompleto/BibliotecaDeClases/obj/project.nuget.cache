@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zsKFNtY2IZpATWEdPnT1mK03qfAlvnF1ZrVWCLLY3GC4vvsjAGaRGnmum0eGHmhAJOsQLL2uFRC0NSFu+UaEXA==",
+  "dgSpecHash": "JIqVTTXzaNnWIL/2bx+9VEX+/4giFldusLSwRLMqkaUSXfLVSIuTL5LPmCuY3/uRiNqepmNTai2b5VUTyqHPBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maurojas\\Downloads\\ModeloCarrerasUniversidad\\Incompleto\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+  "projectFilePath": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Incompleto\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maurojas\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\maurojas\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

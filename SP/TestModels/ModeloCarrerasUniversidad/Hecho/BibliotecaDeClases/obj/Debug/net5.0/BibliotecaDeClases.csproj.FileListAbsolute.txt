@@ -10,3 +10,15 @@ C:\Users\Ismael\Documents\GameBackend-Challenge\SP-Lab_II_2022_C1\BibliotecaDeCl
 C:\Users\Ismael\Documents\GameBackend-Challenge\SP-Lab_II_2022_C1\BibliotecaDeClases\obj\Debug\net5.0\refint\BibliotecaDeClases.dll
 C:\Users\Ismael\Documents\GameBackend-Challenge\SP-Lab_II_2022_C1\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.pdb
 C:\Users\Ismael\Documents\GameBackend-Challenge\SP-Lab_II_2022_C1\BibliotecaDeClases\obj\Debug\net5.0\ref\BibliotecaDeClases.dll
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\TestModels\ModeloCarrerasUniversidad\Hecho\BibliotecaDeClases\bin\Debug\net5.0\BibliotecaDeClases.deps.json
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\TestModels\ModeloCarrerasUniversidad\Hecho\BibliotecaDeClases\bin\Debug\net5.0\BibliotecaDeClases.dll
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\TestModels\ModeloCarrerasUniversidad\Hecho\BibliotecaDeClases\bin\Debug\net5.0\BibliotecaDeClases.pdb
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\TestModels\ModeloCarrerasUniversidad\Hecho\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.csproj.AssemblyReference.cache
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\TestModels\ModeloCarrerasUniversidad\Hecho\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\TestModels\ModeloCarrerasUniversidad\Hecho\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.AssemblyInfoInputs.cache
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\TestModels\ModeloCarrerasUniversidad\Hecho\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.AssemblyInfo.cs
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\TestModels\ModeloCarrerasUniversidad\Hecho\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.csproj.CoreCompileInputs.cache
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\TestModels\ModeloCarrerasUniversidad\Hecho\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.dll
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\TestModels\ModeloCarrerasUniversidad\Hecho\BibliotecaDeClases\obj\Debug\net5.0\refint\BibliotecaDeClases.dll
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\TestModels\ModeloCarrerasUniversidad\Hecho\BibliotecaDeClases\obj\Debug\net5.0\BibliotecaDeClases.pdb
+C:\Users\maurojas\Documents\Alumni\CSharp22\SP\TestModels\ModeloCarrerasUniversidad\Hecho\BibliotecaDeClases\obj\Debug\net5.0\ref\BibliotecaDeClases.dll

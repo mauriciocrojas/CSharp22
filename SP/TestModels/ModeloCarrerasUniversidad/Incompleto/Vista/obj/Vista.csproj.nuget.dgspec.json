@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maurojas\\Downloads\\ModeloCarrerasUniversidad\\Incompleto\\Vista\\Vista.csproj": {}
+    "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Incompleto\\Vista\\Vista.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maurojas\\Downloads\\ModeloCarrerasUniversidad\\Incompleto\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
+    "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Incompleto\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maurojas\\Downloads\\ModeloCarrerasUniversidad\\Incompleto\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+        "projectUniqueName": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Incompleto\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
         "projectName": "BibliotecaDeClases",
-        "projectPath": "C:\\Users\\maurojas\\Downloads\\ModeloCarrerasUniversidad\\Incompleto\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+        "projectPath": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Incompleto\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
         "packagesPath": "C:\\Users\\maurojas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maurojas\\Downloads\\ModeloCarrerasUniversidad\\Incompleto\\BibliotecaDeClases\\obj\\",
+        "outputPath": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Incompleto\\BibliotecaDeClases\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\maurojas\\Downloads\\ModeloCarrerasUniversidad\\Incompleto\\Vista\\Vista.csproj": {
+    "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Incompleto\\Vista\\Vista.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maurojas\\Downloads\\ModeloCarrerasUniversidad\\Incompleto\\Vista\\Vista.csproj",
+        "projectUniqueName": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Incompleto\\Vista\\Vista.csproj",
         "projectName": "Vista",
-        "projectPath": "C:\\Users\\maurojas\\Downloads\\ModeloCarrerasUniversidad\\Incompleto\\Vista\\Vista.csproj",
+        "projectPath": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Incompleto\\Vista\\Vista.csproj",
         "packagesPath": "C:\\Users\\maurojas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maurojas\\Downloads\\ModeloCarrerasUniversidad\\Incompleto\\Vista\\obj\\",
+        "outputPath": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Incompleto\\Vista\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -96,8 +96,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\maurojas\\Downloads\\ModeloCarrerasUniversidad\\Incompleto\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
-                "projectPath": "C:\\Users\\maurojas\\Downloads\\ModeloCarrerasUniversidad\\Incompleto\\BibliotecaDeClases\\BibliotecaDeClases.csproj"
+              "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Incompleto\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
+                "projectPath": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Incompleto\\BibliotecaDeClases\\BibliotecaDeClases.csproj"
               }
             }
           }

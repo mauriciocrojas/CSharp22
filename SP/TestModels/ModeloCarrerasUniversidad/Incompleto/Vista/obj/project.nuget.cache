@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aTFX5X7JdDXlIv4CqU4hY0D1MZzUo3WkFbBcSXoNieIEEp3AJrF/QbdrwwdoabHQ7S1VPWpo7exce8PKBSST/g==",
+  "dgSpecHash": "cUre97c0NimxZm/Iz88N6kTJaCdAfCo6NXeNYngZqzFm2ZsyZbZrrWNG0unI1/lB5zlK8dH6OBTWbIV3fGTb3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maurojas\\Downloads\\ModeloCarrerasUniversidad\\Incompleto\\Vista\\Vista.csproj",
+  "projectFilePath": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Incompleto\\Vista\\Vista.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maurojas\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\maurojas\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

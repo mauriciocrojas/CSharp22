@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ismael\\Desktop\\SP-Lab_II_2022_C1-Resuelto\\ProyectoTestUnitarios\\ProyectoTestUnitarios.csproj": {}
+    "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Hecho\\ProyectoTestUnitarios\\ProyectoTestUnitarios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ismael\\Desktop\\SP-Lab_II_2022_C1-Resuelto\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
+    "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Hecho\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ismael\\Desktop\\SP-Lab_II_2022_C1-Resuelto\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+        "projectUniqueName": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Hecho\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
         "projectName": "BibliotecaDeClases",
-        "projectPath": "C:\\Users\\Ismael\\Desktop\\SP-Lab_II_2022_C1-Resuelto\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
-        "packagesPath": "C:\\Users\\Ismael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ismael\\Desktop\\SP-Lab_II_2022_C1-Resuelto\\BibliotecaDeClases\\obj\\",
+        "projectPath": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Hecho\\BibliotecaDeClases\\BibliotecaDeClases.csproj",
+        "packagesPath": "C:\\Users\\maurojas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Hecho\\BibliotecaDeClases\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ismael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\maurojas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -68,20 +68,20 @@
         }
       }
     },
-    "C:\\Users\\Ismael\\Desktop\\SP-Lab_II_2022_C1-Resuelto\\ProyectoTestUnitarios\\ProyectoTestUnitarios.csproj": {
+    "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Hecho\\ProyectoTestUnitarios\\ProyectoTestUnitarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ismael\\Desktop\\SP-Lab_II_2022_C1-Resuelto\\ProyectoTestUnitarios\\ProyectoTestUnitarios.csproj",
+        "projectUniqueName": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Hecho\\ProyectoTestUnitarios\\ProyectoTestUnitarios.csproj",
         "projectName": "ProyectoTestUnitarios",
-        "projectPath": "C:\\Users\\Ismael\\Desktop\\SP-Lab_II_2022_C1-Resuelto\\ProyectoTestUnitarios\\ProyectoTestUnitarios.csproj",
-        "packagesPath": "C:\\Users\\Ismael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ismael\\Desktop\\SP-Lab_II_2022_C1-Resuelto\\ProyectoTestUnitarios\\obj\\",
+        "projectPath": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Hecho\\ProyectoTestUnitarios\\ProyectoTestUnitarios.csproj",
+        "packagesPath": "C:\\Users\\maurojas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Hecho\\ProyectoTestUnitarios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ismael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\maurojas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -96,8 +96,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Ismael\\Desktop\\SP-Lab_II_2022_C1-Resuelto\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
-                "projectPath": "C:\\Users\\Ismael\\Desktop\\SP-Lab_II_2022_C1-Resuelto\\BibliotecaDeClases\\BibliotecaDeClases.csproj"
+              "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Hecho\\BibliotecaDeClases\\BibliotecaDeClases.csproj": {
+                "projectPath": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\Hecho\\BibliotecaDeClases\\BibliotecaDeClases.csproj"
               }
             }
           }

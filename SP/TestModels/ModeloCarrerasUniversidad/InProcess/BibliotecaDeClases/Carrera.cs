@@ -26,7 +26,7 @@ namespace BibliotecaDeClases
 
         public override string ToString()
         {
-            return this.nombre + " - " + "Puntaje del curso: ";
+            return this.nombre + " - " + "Puntaje del curso: " + CalificacionFinal;
         }
 
         public decimal CalificacionFinal

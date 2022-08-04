@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E+6+ZkiJI3MZKeXcntqTgSzlc5fXjcCfUdppII1P+dbUl9eArhXEMKlP625W9OwV5auTboDXVoUDhEWhV1C+5w==",
+  "dgSpecHash": "m4uweAR+Ap50+65AW4bMALJhPlVUoM+tI9dIocirPOilGqXji7JZbfJAJy4mJmktDxmqXCwyt23Ikzt36cNONg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maurojas\\Documents\\Alumni\\Proyectos\\SP\\TestModels\\ModeloCarrerasUniversidad\\SinHacer - copia\\Vista\\Vista.csproj",
+  "projectFilePath": "C:\\Users\\maurojas\\Documents\\Alumni\\CSharp22\\SP\\TestModels\\ModeloCarrerasUniversidad\\InProcess\\Vista\\Vista.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maurojas\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\maurojas\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

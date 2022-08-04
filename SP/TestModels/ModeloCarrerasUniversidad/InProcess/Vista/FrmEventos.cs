@@ -13,6 +13,8 @@ namespace Vista
             int cupoUniversidad = GeneradorDeDatos.Rnd.Next(5, 16);   // no modificar
             unaUniversidad = new Universidad(cupoUniversidad);  // no modificar
 
+            unaUniversidad.cupoLleno += MostrarMensajeAgradecimiento;
+            unaUniversidad.cupoLleno += DesactivarComponentesFormularios;
         }
 
         // no modificar metodo

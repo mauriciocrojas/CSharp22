@@ -18,6 +18,9 @@ namespace Vista
             InitializeComponent();   // no modificar linea
             listaAlumnos = new List<Alumno>();  // no modificar linea
 
+            cts = new CancellationTokenSource();
+            cargaAlumnos = new Task(ComenzarCarga);
+            listaAlumnos = new List<Alumno>();
 
         }
 
@@ -26,7 +29,21 @@ namespace Vista
 
             while (true) 
             {
-             
+                if (cts.IsCancellationRequested)
+                {
+                    return;
+                }
+                else if (this.dtg_listadoDeAlumnos.InvokeRequired)
+                {
+                    listaAlumnos.Add(GeneradorDeDatos.GetUnAlumno);
+
+                    this.dtg_listadoDeAlumnos.BeginInvoke((MethodInvoker)delegate ()
+                    {
+                        dtg_listadoDeAlumnos.DataSource = null;
+                        dtg_listadoDeAlumnos.DataSource = listaAlumnos;
+                    });
+                }
+
 
                 Thread.Sleep(2000);
             }

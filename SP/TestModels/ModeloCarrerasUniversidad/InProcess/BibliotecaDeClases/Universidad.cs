@@ -10,18 +10,30 @@ namespace BibliotecaDeClases
 
         public List<Carrera> ListaCarreras { get => listaCarreras; }//no modificar
 
+        public event Action<bool> cupoLleno;
+
         public Universidad(int cupo) //no modificar metodo
         {
             this.capacidad = cupo;
             listaCarreras = new List<Carrera>();
+
         }
-      
+
 
         // completar metodo
         public List<Carrera> AgregarNuevaCarrera()
         {
-        
-            listaCarreras.Add(GeneradorDeDatos.GetUnaCarrera);
+
+            if (listaCarreras.Count <= capacidad)
+            {
+                listaCarreras.Add(GeneradorDeDatos.GetUnaCarrera);
+
+            }
+            else
+            {
+                cupoLleno.Invoke(true);
+            }
+
 
             return ListaCarreras;
         }
